@@ -40,9 +40,12 @@
 
 ## 👥 Criadores
 
-- **Vinícius Miranda:** Desenvolvedor Full Stack
-- **Matheus Leite:** Desenvolvedor Backend
-- **Guilherme Dias:** Web Designer
+- **Backend:** Java com Spring Boot
+- **Frontend:** Angular e Bootstrap
+- **Banco de Dados:** MySQL
+- **Controle de Versão:** Git e GitHub
+- **Design:** Canvas
+
     <br >
 
   <br>
@@ -52,3 +55,4 @@
 <p align="center">
   <img src="imgs/git-telas.gif" alt="Telas Criadas pelo Web Designer">
 </p>
+
